@@ -1,7 +1,7 @@
-🚀<h2>***Portfolio 3.0***</h2>
+<h2>🚀 ***Portfolio 3.0***</h2>
 A high-performance, single-page developer portfolio built with a "Terminal & Tech" aesthetic. This project showcases my journey as a Data Science Student and Frontend Developer Intern, sitting at the intersection of intelligent systems and clean user interfaces.
 
-🛠️ **Tech Stack & Architecture**
+🛠️ ###**Tech Stack & Architecture**###
 
 This portfolio was engineered to be lightweight and blazing fast, prioritizing pure code over heavy frameworks.
 
@@ -16,7 +16,7 @@ This portfolio was engineered to be lightweight and blazing fast, prioritizing p
 
 + **Typography:** Space Mono (Tech-feel) & DM Sans (Modern readability)
 
-✨ **Key Features**
+✨ ###**Key Features**###
 + **Responsive Matrix Design:** A mobile-first layout that adapts seamlessly from ultra-wide monitors to smartphones.
 
 + **Interactive Project Matrix:** Custom-built cards featuring a "macOS/Terminal" header style, complete with tech badges and live links.
@@ -27,7 +27,7 @@ This portfolio was engineered to be lightweight and blazing fast, prioritizing p
 
 + **Glassmorphism Navigation:** A frosted-glass header with an active blinking terminal cursor.
 
-📁 **Highlighted Projects**
+📁 ###**Highlighted Projects**###
 
 The portfolio acts as a central hub for my technical work, including:
 
