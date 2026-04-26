@@ -1,4 +1,4 @@
-🚀 ***Portfolio 3.0***
+🚀 <h2>***Portfolio 3.0***</h2>
 A high-performance, single-page developer portfolio built with a "Terminal & Tech" aesthetic. This project showcases my journey as a Data Science Student and Frontend Developer Intern, sitting at the intersection of intelligent systems and clean user interfaces.
 
 🛠️ **Tech Stack & Architecture**
