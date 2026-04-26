@@ -1,7 +1,8 @@
-🚀 <h2>***Portfolio 3.0***</h2>
+🚀<h2>***Portfolio 3.0***</h2>
 A high-performance, single-page developer portfolio built with a "Terminal & Tech" aesthetic. This project showcases my journey as a Data Science Student and Frontend Developer Intern, sitting at the intersection of intelligent systems and clean user interfaces.
 
 🛠️ **Tech Stack & Architecture**
+
 This portfolio was engineered to be lightweight and blazing fast, prioritizing pure code over heavy frameworks.
 
 + **Core:** Modern HTML5 & CSS3
@@ -27,6 +28,7 @@ This portfolio was engineered to be lightweight and blazing fast, prioritizing p
 + **Glassmorphism Navigation:** A frosted-glass header with an active blinking terminal cursor.
 
 📁 **Highlighted Projects**
+
 The portfolio acts as a central hub for my technical work, including:
 
 **SkillSwap:** A peer-to-peer exchange platform featuring a virtual credit economy and matching algorithms.
