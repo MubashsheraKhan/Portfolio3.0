@@ -31,9 +31,10 @@ This portfolio was engineered to be lightweight and blazing fast, prioritizing p
 
 The portfolio acts as a central hub for my technical work, including:
 
-**SkillSwap:** A peer-to-peer exchange platform featuring a virtual credit economy and matching algorithms.
+**🌐AI-Powered Plagiarism Detector:** A modern Machine Learning web application that scans text and checks for plagiarism against the live web in real time. Built entirely with Python and hosted serverless on the cloud.
+
+**📉Customer Churn Prediction:** A Machine Learning project that predicts whether a telecom customer is likely to churn (cancel their subscription), based on their account and usage profile. Includes an interactive Streamlit dashboard for live predictions.
 
 **Mubs_Cine:** A movie booking UI demonstrating SubtleCrypto API for secure authentication.
 
-**Periodic Table:** An interactive atomic visualization matrix built using CSS Grid.
 
